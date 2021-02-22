@@ -1,5 +1,6 @@
 public class Fibonacci {
 
+    // simple Fibonacci function
     public static int getFibonacci(int n){
         int n1 = 0, n2 = 1;
         if(n == 0) return 0;
